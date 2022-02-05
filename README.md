@@ -15,15 +15,15 @@
 
   ## Try this configuration for better performance before flashing.
 
-  Board: "Select your ESP8266 Board"
-  Upload Speed: "115200"
-  CPU Frequency: "160 MHz"
-  Flash Size: "4MB (FS:3MB OTA:~-512KB)"
-  Flash Mode: "DOUT"
-  Flash Frequency: "26MHz"
-  IwIP Variant: "V2 Higher Bandwidth"
-  Stack Protection: "Enabled"
-  MMU: "32KB cache + 32KB IRAM (balanced)"
+  >Board: "Select your ESP8266 Board", 
+  >Upload Speed: "115200", 
+  >CPU Frequency: "160 MHz", 
+  >Flash Size: "4MB (FS:3MB OTA:~-512KB)", 
+  >Flash Mode: "DOUT", 
+  >Flash Frequency: "26MHz", 
+  >IwIP Variant: "V2 Higher Bandwidth", 
+  >Stack Protection: "Enabled", 
+  >MMU: "32KB cache + 32KB IRAM (balanced)",
 
  ## HOW TO SETUP:
 
